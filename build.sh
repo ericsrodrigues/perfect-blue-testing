@@ -50,5 +50,4 @@ rpm-ostree install \
 
 #### Example for enabling a System Unit File
 
-systemctl start docker
-systemctl enable podman.socket
+systemctl enable podman.socket docker.service
