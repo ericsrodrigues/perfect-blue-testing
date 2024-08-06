@@ -50,10 +50,6 @@ rpm-ostree uninstall \
   firefox \
   firefox-langpacks
 
-### Flatpaks
-flatpak install flathub com.spotify.Client com.valvesoftware.Steam dev.vencord.Vesktop com.stremio.Stremio org.telegram.desktop md.obsidian.Obsidian org.mozilla.firefox org.gnome.gitlab.somas.Apostrophe org.gnome.Fractal info.febvre.Komikku com.github.johnfactotum.Foliate org.prismlauncher.PrismLauncher org.mozilla.Thunderbird org.gnome.Boxes io.github.dvlv.boxbuddyrs org.gimp.GIMP com.rafaelmardojai.Blanket com.mattjakeman.ExtensionManager -y
-
-
 # this would install a package from rpmfusion
 # rpm-ostree install vlc
 
