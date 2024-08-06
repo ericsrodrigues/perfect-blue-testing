@@ -49,15 +49,14 @@ rpm-ostree install \
   nautilus-gsconnect \
   fastfetch \
   gnome-shell-extension-appindicator \
-  gnome-shell-extension-pop-shell 
+  gnome-shell-extension-forge \
+  jetbrains-mono-fonts \
+  google-noto-sans-cjk-fonts
 
 # uninstall packages
 rpm-ostree uninstall \
   firefox \
   firefox-langpacks
-
-# this would install a package from rpmfusion
-# rpm-ostree install vlc
 
 #### Example for enabling a System Unit File
 
