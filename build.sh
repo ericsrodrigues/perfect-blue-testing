@@ -36,6 +36,7 @@ rpm-ostree install \
   openssl \
   zsh \
   neovim \
+  vim \
   gnome-tweaks \
   docker-ce \
   docker-ce-cli \
@@ -43,12 +44,17 @@ rpm-ostree install \
   docker-buildx-plugin \
   docker-compose-plugin \
   bootc \
-  rclone
+  rclone \
+  gnome-shell-extension-gsconnect \
+  nautilus-gsconnect \
+  fastfetch \
+  gnome-shell-extension-appindicator 
 
 # uninstall packages
 rpm-ostree uninstall \
   firefox \
-  firefox-langpacks
+  firefox-langpacks \
+  gnome-extensions-app 
 
 # this would install a package from rpmfusion
 # rpm-ostree install vlc
