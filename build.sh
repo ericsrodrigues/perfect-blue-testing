@@ -48,7 +48,8 @@ rpm-ostree install \
   gnome-shell-extension-gsconnect \
   nautilus-gsconnect \
   fastfetch \
-  gnome-shell-extension-appindicator 
+  gnome-shell-extension-appindicator \
+  gnome-shell-extension-pop-shell 
 
 # uninstall packages
 rpm-ostree uninstall \
