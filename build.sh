@@ -45,6 +45,10 @@ rpm-ostree install \
   bootc \
   rclone
 
+# uninstall packages
+rpm-ostree uninstall \
+  firefox
+
 # this would install a package from rpmfusion
 # rpm-ostree install vlc
 
