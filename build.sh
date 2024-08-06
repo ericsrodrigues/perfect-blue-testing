@@ -49,7 +49,6 @@ rpm-ostree install \
   nautilus-gsconnect \
   fastfetch \
   gnome-shell-extension-appindicator \
-  gnome-shell-extension-forge \
   jetbrains-mono-fonts \
   google-noto-sans-cjk-fonts
 
