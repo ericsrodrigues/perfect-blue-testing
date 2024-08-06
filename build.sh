@@ -53,8 +53,7 @@ rpm-ostree install \
 # uninstall packages
 rpm-ostree uninstall \
   firefox \
-  firefox-langpacks \
-  gnome-extensions-app 
+  firefox-langpacks
 
 # this would install a package from rpmfusion
 # rpm-ostree install vlc
