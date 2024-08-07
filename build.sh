@@ -50,7 +50,8 @@ rpm-ostree install \
   fastfetch \
   gnome-shell-extension-appindicator \
   jetbrains-mono-fonts \
-  google-noto-sans-cjk-fonts
+  google-noto-sans-cjk-fonts \
+  gh
 
 # uninstall packages
 rpm-ostree uninstall \
