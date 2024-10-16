@@ -51,10 +51,7 @@ rpm-ostree install \
   docker-compose-plugin \
   bootc \
   rclone \
-  gnome-shell-extension-gsconnect \
-  nautilus-gsconnect \
   fastfetch \
-  gnome-shell-extension-appindicator \
   jetbrains-mono-fonts \
   google-noto-sans-cjk-fonts \
   gh
