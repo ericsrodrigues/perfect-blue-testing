@@ -52,9 +52,6 @@ rpm-ostree install \
   bootc \
   rclone \
   fastfetch \
-  gnome-shell-extension-appindicator \
-  nautilus-gsconnect \
-  gnome-shell-extension-appindicator \
   jetbrains-mono-fonts \
   google-noto-sans-cjk-fonts \
   gh
