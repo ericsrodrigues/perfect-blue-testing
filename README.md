@@ -1,4 +1,4 @@
 I'm using this repository only to test things for my main system repo.
 
-![image](https://github.com/user-attachments/assets/844b4788-e491-4938-8abc-bd1190cbbf0a)
+![image](https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1647393540264-5KYHVEAH0FJCEA6HB8TP/original.gif)
 
