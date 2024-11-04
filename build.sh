@@ -58,7 +58,7 @@ rpm-ostree install \
   jetbrains-mono-fonts \
   google-noto-sans-cjk-fonts \
   SwayNotificationCenter \
-  alacritty
+  alacritty \
   gh
 
 # uninstall packages
