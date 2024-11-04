@@ -36,6 +36,10 @@ gpgcheck=1
 gpgkey=https://download.docker.com/linux/fedora/gpg
 EOF
 
+# SwayNC
+
+sudo curl -sL -o /etc/yum.repos.d/_copr:copr.fedorainfracloud.org:erikreider:SwayNotificationCenter.repo https://copr.fedorainfracloud.org/coprs/erikreider/SwayNotificationCenter/repo/fedora-$(rpm -E %fedora)/erikreider-SwayNotificationCenter-fedora-$(rpm -E %fedora).repo
+
 # this installs a package from fedora repos
 rpm-ostree install \
   code \
@@ -54,6 +58,7 @@ rpm-ostree install \
   fastfetch \
   jetbrains-mono-fonts \
   google-noto-sans-cjk-fonts \
+  SwayNotificationCenter \
   gh
 
 # uninstall packages
