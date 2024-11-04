@@ -43,7 +43,6 @@ sudo curl -sL -o /etc/yum.repos.d/_copr:copr.fedorainfracloud.org:erikreider:Swa
 # this installs a package from fedora repos
 rpm-ostree install \
   code \
-  openssl \
   zsh \
   neovim \
   vim \
@@ -59,12 +58,14 @@ rpm-ostree install \
   jetbrains-mono-fonts \
   google-noto-sans-cjk-fonts \
   SwayNotificationCenter \
+  alacritty
   gh
 
 # uninstall packages
 rpm-ostree uninstall \
   firefox \
-  firefox-langpacks
+  firefox-langpacks \
+  foot
 
 #### Example for enabling a System Unit File
 
