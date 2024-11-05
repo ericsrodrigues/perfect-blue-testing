@@ -59,6 +59,7 @@ rpm-ostree install \
   google-noto-sans-cjk-fonts \
   SwayNotificationCenter \
   alacritty \
+  gammastep \
   gh
 
 # uninstall packages
