@@ -59,12 +59,14 @@ gnome-shell-extension-light-style \
 gnome-shell-extension-blur-my-shell \
 jetbrains-mono-fonts \
 google-noto-sans-cjk-fonts \
+alacritty \
 gh
 
 # uninstall packages
 rpm-ostree uninstall \
 firefox \
-firefox-langpacks
+firefox-langpacks \
+ptyxis
 
 #### Example for enabling a System Unit File
 
