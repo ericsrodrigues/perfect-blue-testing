@@ -39,11 +39,9 @@ EOF
 # this installs a package from fedora repos
 rpm-ostree install \
 code \
-openssl \
 zsh \
 neovim \
 vim \
-gnome-tweaks \
 docker-ce \
 docker-ce-cli \
 containerd.io \
@@ -52,11 +50,6 @@ docker-compose-plugin \
 bootc \
 rclone \
 fastfetch \
-nautilus-gsconnect \
-gnome-shell-extension-appindicator \
-gnome-shell-extension-gsconnect \
-gnome-shell-extension-light-style \
-gnome-shell-extension-blur-my-shell \
 jetbrains-mono-fonts \
 google-noto-sans-cjk-fonts \
 alacritty \
