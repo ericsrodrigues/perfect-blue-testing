@@ -59,7 +59,6 @@ gh
 rpm-ostree uninstall \
 firefox \
 firefox-langpacks \
-ptyxis
 
 #### Example for enabling a System Unit File
 
