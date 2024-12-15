@@ -56,9 +56,9 @@ alacritty \
 gh
 
 # uninstall packages
-rpm-ostree uninstall \
-firefox \
-firefox-langpacks \
+# rpm-ostree uninstall \
+# firefox \
+# firefox-langpacks \
 
 #### Example for enabling a System Unit File
 
